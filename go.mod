@@ -71,7 +71,7 @@ require (
 	k8s.io/api v0.26.0
 	k8s.io/apimachinery v0.26.0
 	k8s.io/client-go v0.26.0
-	sigs.k8s.io/gateway-api v0.6.0
+	sigs.k8s.io/gateway-api v0.6.1
 )
 
 require (
